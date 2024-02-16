@@ -1,0 +1,7 @@
+Used in Web Dev - Server Side
+Guido w=van rossum was creator
+System Scripting
+Used to connect database systems
+Python runs on Interpreter (Interpreter in the sense you an execute the code as soon as you write the code)
+Python uses white spaces to define loops,functions & claases
+Indentation means spaces at beginning of a code line

@@ -1,0 +1,13 @@
+Datatypes are nothing but types of different data which can do different things
+
+Text type: Str
+Numeric type: int, float, complex
+sequence Types: list,tuple,range
+Mapping Type: Dict
+Set Types: set, frozenset
+Boolean Type: Bool
+Binary Types: bytes,bytearray,memory view
+None Type: None Type
+[] - Means list
+{} - Dictionary
+() - tuple

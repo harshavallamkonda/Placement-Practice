@@ -1,0 +1,6 @@
+opne() - Used for opening of files
+Methods of opening filesr - read
+w - write
+a - append
+x - create files but it returns when the file exists
+b - BInary mode to open images
